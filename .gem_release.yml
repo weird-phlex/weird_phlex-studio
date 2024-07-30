@@ -1,0 +1,4 @@
+bump:
+  file: lib/weird_phlex/studio/version.rb
+  skip_ci: true
+
